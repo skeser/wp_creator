@@ -1,0 +1,12 @@
+# Öğrenci listeleri (kullanıcı adı ve şifre içerir) repoya alınmaz
+data/*.txt
+!data/*.example.txt
+
+# Betiklerin ürettiği sonuç dosyaları
+exec_result/*
+!exec_result/.gitkeep
+
+# Editör ve sistem dosyaları
+*.swp
+*~
+.DS_Store

@@ -1,0 +1,4 @@
+# Betikler her platformda LF satır sonuyla kalsın (Windows'ta CRLF hatasını önler)
+*.sh  text eol=lf
+*.md  text eol=lf
+*.txt text eol=lf

@@ -1,0 +1,6 @@
+# Örnek liste: her satır "kullanici_adi  sifre"
+# Bu dosyayı kopyalayıp kendi listeni oluştur: cp sinif1.example.txt sinif1.txt
+# Şifrede boşluk, ' ve \ karakteri olmamalı. Buradaki şifreler sadece örnektir.
+ogrenci1   Sifre-Ornek-1
+ogrenci2   Sifre-Ornek-2
+ogrenci3   Sifre-Ornek-3
